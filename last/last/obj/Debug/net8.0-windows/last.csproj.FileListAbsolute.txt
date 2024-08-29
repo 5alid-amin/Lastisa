@@ -1,0 +1,17 @@
+D:\Lastisa\last\last\bin\Debug\net8.0-windows\last.exe
+D:\Lastisa\last\last\bin\Debug\net8.0-windows\last.deps.json
+D:\Lastisa\last\last\bin\Debug\net8.0-windows\last.runtimeconfig.json
+D:\Lastisa\last\last\bin\Debug\net8.0-windows\last.dll
+D:\Lastisa\last\last\bin\Debug\net8.0-windows\last.pdb
+D:\Lastisa\last\last\obj\Debug\net8.0-windows\last.Form1.resources
+D:\Lastisa\last\last\obj\Debug\net8.0-windows\last.csproj.GenerateResource.cache
+D:\Lastisa\last\last\obj\Debug\net8.0-windows\last.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lastisa\last\last\obj\Debug\net8.0-windows\last.AssemblyInfoInputs.cache
+D:\Lastisa\last\last\obj\Debug\net8.0-windows\last.AssemblyInfo.cs
+D:\Lastisa\last\last\obj\Debug\net8.0-windows\last.csproj.CoreCompileInputs.cache
+D:\Lastisa\last\last\obj\Debug\net8.0-windows\last.sourcelink.json
+D:\Lastisa\last\last\obj\Debug\net8.0-windows\last.dll
+D:\Lastisa\last\last\obj\Debug\net8.0-windows\refint\last.dll
+D:\Lastisa\last\last\obj\Debug\net8.0-windows\last.pdb
+D:\Lastisa\last\last\obj\Debug\net8.0-windows\last.genruntimeconfig.cache
+D:\Lastisa\last\last\obj\Debug\net8.0-windows\ref\last.dll
