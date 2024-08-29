@@ -1,0 +1,5 @@
+D:\Lastisa\last\last\bin\Release\net8.0-windows\app.publish\last.exe
+D:\Lastisa\last\last\bin\Release\net8.0-windows\app.publish\last.dll
+D:\Lastisa\last\last\bin\Release\net8.0-windows\app.publish\last.deps.json
+D:\Lastisa\last\last\bin\Release\net8.0-windows\app.publish\last.runtimeconfig.json
+D:\Lastisa\last\last\bin\Release\net8.0-windows\app.publish\last.pdb
