@@ -34,11 +34,12 @@
             // textBox1
             // 
             textBox1.Font = new Font("Segoe UI", 48F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            textBox1.Location = new Point(126, 143);
+            textBox1.Location = new Point(55, 147);
             textBox1.Name = "textBox1";
-            textBox1.Size = new Size(542, 93);
+            textBox1.Size = new Size(655, 93);
             textBox1.TabIndex = 0;
-            textBox1.Text = "i'm the first virsion";
+            textBox1.Text = "i'm the second virsion";
+            textBox1.TextChanged += textBox1_TextChanged;
             // 
             // Form1
             // 
