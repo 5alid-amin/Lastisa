@@ -83,7 +83,7 @@ namespace last
 
                 File.Copy(sourcePath, destinationPath);
 
-                MessageBox.Show("Backup created successfully with updated data.");
+                MessageBox.Show("Backup created successfully with updated data to => "+ destinationPath);
             }
             catch (Exception ex)
             {
@@ -187,7 +187,7 @@ namespace last
             using (var connection = new SQLiteConnection($"Data Source={sourcePath};"))
             {
                 connection.Open();
-                using (var command = new SQLiteCommand("SELECT * FROM TbKhaloods;", connection))
+                using (var command = new SQLiteCommand("SELECT * FROM Table;", connection))
                 {
                     using (var adapter = new SQLiteDataAdapter(command))
                     {
